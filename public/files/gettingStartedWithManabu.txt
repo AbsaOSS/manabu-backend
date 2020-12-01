@@ -1,0 +1,28 @@
+## Getting Started with Manabu
+
+### What is Manabu?
+
+* Manabu means "learn" in Japanese  
+* It is a web application that provides a learning platform for professional adults  
+
+---
+### Architecture
+
+* Built on Vanilla Node.js  (for backend)  
+* Database program is MongoDB  
+* Template engine is Pug JS  
+* Uses Stimulus Js
+
+---
+### Why Node.js?
+
+* Node.js an open source runtime environment for JavaScript  
+* It has a package manager, called NPM, which easily installs required packages
+* Node's asynchronous nature allows for other processes to continue while waiting for a response from the server
+
+---
+### Why MongoDB?
+   
+#### Conclusion
+
+Pariatur officia cillum ea eiusmod magna ad velit velit ullamco. Pariatur nostrud aliquip esse ad anim. Culpa minim elit.

@@ -1,0 +1,21 @@
+{
+  "env": {
+    "node": true,
+    "browser": true
+  },
+  "extends": "airbnb-base",
+  "globals": {
+    "Stimulus": true,
+    "Turbolinks": true,
+    "$": true,
+    "document": true,
+    "SimpleMDE": true,
+    "fetch": true,
+    "_": true,
+    "axios": true
+  },
+  "rules": {
+    "class-methods-use-this": 0,
+    "object-shorthand": 0
+  }
+}
